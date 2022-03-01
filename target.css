@@ -1,0 +1,21 @@
+body {
+text-align: center;
+list-style-position: inside;
+}
+
+a {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style-position: inside
+}
+
+h1 {
+    color: #395B64;
+    font-weight: 1000;
+}
